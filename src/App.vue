@@ -1,13 +1,9 @@
 <template>
-  <h3> HELLO JAYANG </h3>
+  <router-view />
 </template>
 
 <script>
-export default {
-  name: "App",
-
-  data: () => ({
-    //
-  }),
-};
+  export default {
+    name: 'App',
+  }
 </script>
