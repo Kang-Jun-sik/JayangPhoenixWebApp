@@ -7,7 +7,7 @@ Vue.use(VueI18n)
 
 const messages = {
   en: {
-    ...require('@/locales/en.json'),
+    ...require('@/locales/ko-kr.json'),
     $vuetify: en,
   },
 }

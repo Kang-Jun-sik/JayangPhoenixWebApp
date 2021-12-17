@@ -31,7 +31,7 @@
             contain
         >
           <v-img
-              src="https://demos.creative-tim.com/vuetify-material-dashboard/favicon.ico"
+              src=""
               max-height="30"
           />
         </v-list-item-avatar>
@@ -121,16 +121,16 @@ export default {
         icon: 'mdi-clipboard-outline',
         to: '/tables/regular-tables',
       },
-      {
-        title: 'typography',
-        icon: 'mdi-format-font',
-        to: '/components/typography',
-      },
-      {
-        title: 'icons',
-        icon: 'mdi-chart-bubble',
-        to: '/components/icons',
-      },
+      // {
+      //   title: 'typography',
+      //   icon: 'mdi-format-font',
+      //   to: '/components/typography',
+      // },
+      // {
+      //   title: 'icons',
+      //   icon: 'mdi-chart-bubble',
+      //   to: '/components/icons',
+      // },
       {
         title: 'google',
         icon: 'mdi-map-marker',
