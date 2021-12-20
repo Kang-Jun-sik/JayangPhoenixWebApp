@@ -99,6 +99,7 @@
                   Current Version
                 </v-btn>
               </td>
+              <!--
               <td>
                 <v-btn
                     color="success"
@@ -108,6 +109,7 @@
                   Upgrade to Pro
                 </v-btn>
               </td>
+              -->
             </tr>
             </tbody>
           </v-simple-table>
