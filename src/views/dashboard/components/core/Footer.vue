@@ -7,20 +7,20 @@
           align="center"
           no-gutters
       >
-        <v-col
-            v-for="(link, i) in links"
-            :key="i"
-            class="text-center mb-sm-0 mb-5"
-            cols="auto"
-        >
-          <a
-              :href="link.href"
-              class="mr-0 grey--text text--darken-3"
-              rel="noopener"
-              target="_blank"
-              v-text="link.text"
-          />
-        </v-col>
+<!--        <v-col-->
+<!--            v-for="(link, i) in links"-->
+<!--            :key="i"-->
+<!--            class="text-center mb-sm-0 mb-5"-->
+<!--            cols="auto"-->
+<!--        >-->
+<!--          <a-->
+<!--              :href="link.href"-->
+<!--              class="mr-0 grey&#45;&#45;text text&#45;&#45;darken-3"-->
+<!--              rel="noopener"-->
+<!--              target="_blank"-->
+<!--              v-text="link.text"-->
+<!--          />-->
+<!--        </v-col>-->
 
         <v-spacer class="hidden-sm-and-down"/>
 
@@ -29,11 +29,7 @@
             md="auto"
         >
           <div class="body-1 font-weight-light pt-6 pt-md-0 text-center">
-            &copy; 2019, made with
-            <v-icon size="18">
-              mdi-heart
-            </v-icon>
-            by <a href="https://www.creative-tim.com">Creative Tim</a> for a better web.
+            &copy; 2021, made with Jayang-Phoenix
           </div>
         </v-col>
       </v-row>
