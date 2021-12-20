@@ -7,13 +7,17 @@ Vue.use(VueI18n)
 
 const messages = {
   en: {
-    ...require('@/locales/ko-kr.json'),
+    ...require('@/locales/en.json'),
     $vuetify: en,
   },
+  ko: {
+    ...require('@/locales/ko-kr.json'),
+    $vuetify: en,
+  }
 }
 
 export default new VueI18n({
-  locale: process.env.VUE_APP_I18N_LOCALE || 'en',
+  locale: process.env.VUE_APP_I18N_LOCALE || 'ko',
   fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || 'en',
   messages,
 })
