@@ -1,0 +1,114 @@
+{
+  "memberList": [
+    {
+      "id": "1",
+      "name": "강준식",
+      "position": "G"
+    },
+    {
+      "id": "2",
+      "name": "조성원",
+      "position": "G"
+    },
+    {
+      "id": "3",
+      "name": "이승한",
+      "position": "F"
+    },
+    {
+      "id": "4",
+      "name": "김지성",
+      "position": "F"
+    },
+    {
+      "id": "5",
+      "name": "이정훈",
+      "position": "F"
+    },
+    {
+      "id": "6",
+      "name": "최정훈",
+      "position": "F"
+    },
+    {
+      "id": "7",
+      "name": "최종호",
+      "position": "C"
+    },
+    {
+      "id": "8",
+      "name": "정석재",
+      "position": "C"
+    },
+    {
+      "id": "9",
+      "name": "장우식",
+      "position": "F"
+    },
+    {
+      "id": "10",
+      "name": "안연수",
+      "position": "F"
+    },
+    {
+      "id": "11",
+      "name": "오세혁",
+      "position": "F"
+    },
+    {
+      "id": "12",
+      "name": "김성태",
+      "position": "F"
+    },
+    {
+      "id": "13",
+      "name": "안환석",
+      "position": "F"
+    },
+    {
+      "id": "14",
+      "name": "어웅선",
+      "position": "F"
+    },
+    {
+      "id": "15",
+      "name": "장동진",
+      "position": "G"
+    },
+    {
+      "id": "16",
+      "name": "조재희",
+      "position": "G"
+    },
+    {
+      "id": "17",
+      "name": "한은구",
+      "position": "G"
+    },
+    {
+      "id": "18",
+      "name": "김동욱",
+      "position": "C"
+    },
+    {
+      "id": "19",
+      "name": "이현빈",
+      "position": "G"
+    },
+    {
+      "id": "20",
+      "name": "주철승",
+      "position": "F"
+    },
+    {
+      "id": "21",
+      "name": "이유빈",
+      "position": "F"
+    },
+    {
+      "id": "21",
+      "name": "김대현",
+      "position": "C"
+    }
+  ]
+}
