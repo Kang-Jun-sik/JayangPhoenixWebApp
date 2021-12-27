@@ -21,6 +21,9 @@
 <script>
 export default {
   name: "MemberListBoard",
+  mounted() {
+
+  },
   data() {
     return {
       singleSelect: false,
