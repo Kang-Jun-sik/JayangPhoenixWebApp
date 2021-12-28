@@ -42,7 +42,7 @@ export default new Router({
                 {
                     name: 'Regular Tables',
                     path: 'tables/regular-tables',
-                    component: () => import('@/views/dashboard/tables/RegularTables'),
+                    component: () => import('@/views/dashboard/tables/MemberListView'),
                 },
                 // Maps
                 {
